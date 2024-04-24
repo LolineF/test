@@ -1,0 +1,6 @@
+{
+    "ModuleA": ["ModuleB", "ModuleC"],
+    "ModuleB": ["ModuleD"],
+    "ModuleC": [],
+    "ModuleD": ["ModuleC"]
+}
