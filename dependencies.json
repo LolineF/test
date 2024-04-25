@@ -148,5 +148,22 @@
         "sale",
         "stock",
         "account"
-    ]
+    ],
+    "crm": [],
+    "calendar": [],
+    "purchase_stock": [],
+    "contacts": [],
+    "mrp": [],
+    "account": [],
+    "purchase": [],
+    "mail": [],
+    "queue_job_cron_jobrunner": [],
+    "stock": [],
+    "sale_stock": [],
+    "product_expiry": [],
+    "product": [],
+    "web": [],
+    "sale_management": [],
+    "base_automation": [],
+    "sale": []
 }
